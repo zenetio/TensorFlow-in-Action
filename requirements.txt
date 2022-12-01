@@ -1,0 +1,23 @@
+# Tensorflow
+tensorflow==2.9.*
+tensorflow-datasets==4.6
+tensorflow_hub==0.12.0
+tensorflow-addons==0.17
+tensorboard_plugin_profile==2.8
+tf-models-official==2.9
+# Standard libraries
+numpy==1.23
+pandas==1.4
+scikit-learn==1.1
+jupyter==1.0.0
+matplotlib==3.5
+# Required by some keras components (e.g. ImageDataGenerator)
+PILLOW==9.2
+nltk==3.7
+imbalanced-learn==0.9.1
+# Transformer related libraries
+transformers==4.20
+datasets==2.3
+pydot
+# Attention visualize
+bertviz==1.4
